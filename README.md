@@ -14,7 +14,4 @@
         <a href="https://github.com/SalehBorhani?tab=repositories" target="_blank"><img alt="Linux"
         src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
         </a>
-        <a href="https://github.com/SalehBorhani?tab=repositories" target="_blank"><img alt="Ubuntu"
-        src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=orange">
-        </a>
         
