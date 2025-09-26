@@ -4,7 +4,7 @@
 </h3>
 <p align="center">
         <samp>
-                < I love DevOps and GNU/Linux >
+                < Try to be Software Engineer :) >
                 <br>
                 <br>
         </samp>
